@@ -6,8 +6,8 @@ Learning some markdown in a workshop
 ## Heading Two
 This is the text content for Heading Two.
 Adding a list of things:
-* Item 1
-* Item 2
+* *Item 1*
+* __Item 2__
 * Item 3
-  * Item 3a
-  * Item 3b
+  * _Item 3a_
+  * *Item 3b*
